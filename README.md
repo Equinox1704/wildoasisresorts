@@ -6,7 +6,10 @@
 
   <h3>
     <a href="https://wildoasisresorts.netlify.app/">
-      <strong>Demo Website</strong>
+      <strong>Netlify Website</strong>
+    </a>
+    <a href="https://wildoasisresorts.vercel.app/">
+      <strong>Vercel Website</strong>
     </a>
   </h3>
 
