@@ -8,6 +8,7 @@
     <a href="https://wildoasisresorts.netlify.app/">
       <strong>Netlify Website</strong>
     </a>
+    <br>
     <a href="https://wildoasisresorts.vercel.app/">
       <strong>Vercel Website</strong>
     </a>
