@@ -34,10 +34,10 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 </a> -->
 
 <div>
+<img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/4.png?raw=true" alt="Login">
 <img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/1.png?raw=true" alt="dashboard">
 <img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/2.png?raw=true" alt="Bookings">
 <img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/3.png?raw=true" alt="Cabins">
-<img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/4.png?raw=true" alt="Login">
 </div>
 
 ## Table of contents
