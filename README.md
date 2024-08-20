@@ -34,7 +34,7 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 </a>
 
 <div>
-<img src="the-wild-oasis\Screenshots\1.png" alt="dashboard">
+<img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/1.png?raw=true" alt="dashboard">
 <img src="the-wild-oasis\Screenshots\2.png" alt="Bookings">
 <img src="the-wild-oasis\Screenshots\3.png" alt="Cabins">
 <img src="the-wild-oasis\Screenshots\4.png" alt="Login">
