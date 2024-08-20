@@ -161,7 +161,7 @@ npm run dev
 
 <b>Mayank Negi</b>
 
-- LinkedIn - [@Equinox1704](https://www.linkedin.com/in/mayank-negi-a99a79187)
+- LinkedIn - [@Mayank Negi](https://www.linkedin.com/in/mayank-negi-a99a79187)
 - Github: [@Equinox1704](https://github.com/Equinox1704)
 
 Feel free to contact me with any questions or feedback!
