@@ -176,7 +176,3 @@ npm run dev
 - Github: [@Equinox1704](https://github.com/Equinox1704)
 
 Feel free to contact me with any questions or feedback!
-
-### Acknowledgments
-
-This app was developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) "The Ultimate React Course 2024: React, Redux & More" by [Jonas Smechmann](https://twitter.com/jonasschmedtman). Special thanks to Jonas for his exceptional teaching and guidance during the course.
