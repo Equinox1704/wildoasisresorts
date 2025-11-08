@@ -37,6 +37,15 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 
 </a> -->
 
+## 🔑 Demo Login Credentials
+This project is protected with authentication.
+Use the following credentials to access the demo:
+```sh
+Username: mayanktest@abc.com
+Password: admin@#root
+
+```
+
 <div>
 <img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/4.png?raw=true" alt="Login">
 <img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/1.png?raw=true" alt="dashboard">
