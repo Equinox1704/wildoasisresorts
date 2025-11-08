@@ -45,7 +45,7 @@ Username: mayanktest@abc.com
 Password: admin@#root
 
 ```
-
+## 📸 Screenshots
 <div>
 <img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/4.png?raw=true" alt="Login">
 <img src="https://github.com/Equinox1704/wildoasisresorts/blob/master/Screenshots/1.png?raw=true" alt="dashboard">
