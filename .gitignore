@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# backup files
+db_cluster-16-03-2025@08-17-54.backup
